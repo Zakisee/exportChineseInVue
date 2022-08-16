@@ -1,0 +1,19 @@
+{
+  "name": "exportchineseinvue",
+  "version": "1.0.0",
+  "description": "可以将vue项目中 所有 **除注释和log以外**的中文 全部导出",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakisee/exportChineseInVue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakisee/exportChineseInVue/issues"
+  },
+  "homepage": "https://github.com/Zakisee/exportChineseInVue#readme"
+}
